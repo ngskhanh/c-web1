@@ -1,2 +1,2 @@
 file week1
-thuộc br: week1
+thuộc br: week1 va main
